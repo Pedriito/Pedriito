@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedriito
 - 👀 I’m interested in music and embbeded systems
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Swift and other languges
 - 📫 How to reach me ...
 
 <!---
